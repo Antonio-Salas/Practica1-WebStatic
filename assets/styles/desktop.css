@@ -1,0 +1,106 @@
+.main {
+    height: 40rem;
+}
+
+.main div {
+    padding: 4rem;
+}
+
+.sectionOne {
+    flex-wrap: nowrap;
+    padding: 4rem;
+}
+
+.sectionOne_divOne p {
+    font-size: 2rem;
+}
+
+.sectionOne_divTwo {
+    flex-wrap: nowrap;
+}
+
+.sectionTwo {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sectionTwo_divMain {
+    flex-wrap: nowrap;
+    padding: 2rem;
+}
+
+.sectionTwo_divMain div {
+    padding: 1.5rem;
+}
+
+.sectionTwo_divMain h1 {
+    align-self: center;
+}
+
+.sectionThree {
+    flex-wrap: nowrap;
+    margin: 2rem;
+}
+
+.sectionThree_divOne h2 {
+    align-self: center;
+    margin: 1rem;
+}
+
+.sectionThree div {
+    margin: 2rem;
+}
+
+.sectionThree_divOne p {
+    padding: 1rem;
+}
+
+.sectionFour_divOne div {
+    margin: 2rem;
+}
+
+.sectionFour_divTwo div {
+    margin: 2rem;
+}
+
+.sectionFive_divOne div {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    padding: 2rem;
+}
+
+.sectionFive {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.sectionFive_divTwo div {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    padding: 2rem;
+}
+
+.sectionFive_divTwo .divTwoProfessional {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    padding: 2rem;
+}
+
+.sectionSix_background {
+    padding: 2rem;
+}
+
+.sectionSeven_background form {
+    flex-direction: column;
+}
+
+.sectionSeven_background .message {
+    height: 9rem;
+    size: 3rem;
+    padding: 1rem;
+}
+
+.sectionSeven_background input[type="submit"] {
+    align-self: center;
+    width: 50%;
+}

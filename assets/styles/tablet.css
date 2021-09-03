@@ -1,0 +1,147 @@
+
+.header_a {
+    font-size: 3rem;
+}
+
+.nav_ul {
+    font-size: 3rem;
+}
+
+.main {
+    background-image: url(../img/imgMainM.png);
+    padding: 4rem;
+}
+
+.sectionOne_divOne h1 {
+    font-size: 3rem;
+    margin: .5rem;
+}
+
+.sectionOne_divOne p {
+    font-size: 2.3rem;
+}
+
+.divOne_btn1 {
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+.sectionOne_divTwo div h2 {
+    font-size: 2.5rem;
+}
+
+.sectionOne_divTwo div p {
+    font-size: 1.8rem;
+}
+
+.sectionTwo_divMain h1 {
+    font-size: 3rem;
+}
+
+.sectionTwo_divMain div p {
+    font-size: 1.8rem;
+}
+
+.sectionTwo_divMain div h3 {
+    font-size: 1.7rem;
+}
+
+.sectionThree_divOne h2 {
+    font-size: 2.5rem;
+}
+
+.sectionThree_divOne p {
+    font-size: 1.8rem;
+}
+
+.sectionThree_divTwo p {
+    font-size: 1.8rem;
+}
+
+.sectionFour h1 {
+    font-size: 3rem;
+}
+
+.sectionFour_divOne div p {
+    font-size: 1.8rem;
+}
+
+.sectionFour_divTwo div p {
+    font-size: 1.8rem;
+}
+
+.sectionFour_divOne div h3, .sectionFour_divOne div h4 {
+    font-size: 2rem;
+}
+
+.sectionFour_divTwo div h3, .sectionFour_divTwo div h4 {
+    font-size: 2rem;
+}
+
+.sectionFive h1 {
+    font-size: 3rem;
+}
+
+.sectionFive p {
+    font-size: 1.8rem;
+}
+
+.sectionFive_divOne div h3 {
+    font-size: 2rem;
+}
+
+.sectionFive_divOne div h2 {
+    font-size: 2.5rem;
+}
+
+.sectionFive_divOne div button {
+    font-size: 1.5rem;
+}
+
+.sectionFive_divTwo div h3 {
+    font-size: 2rem;
+}
+
+.sectionFive_divTwo div h2 {
+    font-size: 2.5rem;
+}
+
+.sectionFive_divTwo div button {
+    font-size: 1.5rem;
+}
+
+.sectionFive_divTwo .divTwoSpecial h3 {
+    font-size: 2rem;
+}
+
+.sectionFive_divTwo .divTwoSpecial h2 {
+    font-size: 2.5rem;
+}
+
+.sectionSix p {
+    font-size: 1.8rem;
+}
+
+.sectionSix h2 {
+    font-size: 2rem;
+}
+
+.sectionSix a {
+    font-size: 1.8rem;
+}
+
+.sectionSeven h2 {
+    font-size: 3rem;
+}
+
+.sectionSeven_background label span {
+    font-size: 1.8rem;
+}
+
+.sectionSeven_background input[type="submit"] {
+    font-size: 1.8rem;
+}
+
+.footer p {
+    font-size: 1.8rem;
+}
